@@ -1,0 +1,12 @@
+.jumbotron {
+	background-image: url(img/bg-bendunganwalahar.jpg);
+	background-size: cover;
+	height: 1000px;
+}
+.jumbotron .display-4 {
+	color: blue;
+}
+.jumbotron hr {
+	border-color: white;
+	border-width: 2px;
+}
